@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>simulate view  general report</description>
-   <name>View GReport</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>73c726d9-f2b3-450b-a3b9-ce067c0eb319</testCaseGuid>
-</TestCaseEntity>

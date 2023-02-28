@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>simulate when users search with invaliod customer id and eemployee</description>
+   <name>Invalid Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1debadaa-2bd5-4e98-a27f-dfd5740b14a1</testCaseGuid>
+</TestCaseEntity>

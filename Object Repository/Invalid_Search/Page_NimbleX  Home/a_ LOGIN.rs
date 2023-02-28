@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ LOGIN</name>
+   <tag></tag>
+   <elementGuidId>2511d289-cfd2-456c-8b4d-a1acb72715c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/section/div/div/div[2]/div/div[1]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>831b93fa-92fe-4c95-9505-0d79a2f114c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>a711d44a-8669-4243-86fc-f14945e58853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modalLogin</value>
+      <webElementGuid>1c61f8e0-5b58-4ea2-a1b4-602c7685f9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Login Here</value>
+      <webElementGuid>a9030981-c4a8-437c-8c8a-fc66cf79c94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white pull-right p-3 bg-danger</value>
+      <webElementGuid>a8c561b3-fee8-4151-98e7-874c05276b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  LOGIN</value>
+      <webElementGuid>608dc55d-6a5a-469d-a0b3-128bff817b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;full-height&quot;]/body[1]/nav[@class=&quot;navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar&quot;]/div[@class=&quot;container&quot;]/a[@class=&quot;text-white pull-right p-3 bg-danger&quot;]</value>
+      <webElementGuid>fd369b57-440b-4395-8084-13f6bbf4aaf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LOGIN')]</value>
+      <webElementGuid>480aa031-7812-4aa5-99f0-a1ed23bf6de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Getting a Loan just got easier!!'])[1]/preceding::a[1]</value>
+      <webElementGuid>da23ca1f-64db-4337-9236-9f770aa8f64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you are an existing customer please LOGIN otherwise APPLY NOW'])[1]/preceding::a[1]</value>
+      <webElementGuid>937fbfb4-4fef-4755-99cd-3cdec3c3e7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>7d64eb7a-4295-4007-9703-160a01946dea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

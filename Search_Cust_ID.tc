@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>simulating user seacrh using custgomer ID</description>
-   <name>Search_Cust_ID</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>64988725-280f-4b65-b841-0e10aed78844</testCaseGuid>
-</TestCaseEntity>

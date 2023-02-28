@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>once user clicks on the Login button, profiled user should be able to login successfully.</description>
-   <name>User Login</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>35092807-0d26-47c6-a375-01c0986386cd</testCaseGuid>
-</TestCaseEntity>

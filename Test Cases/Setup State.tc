@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>simulate setting of states
+Ensure that the following items are changed
+items,15,16,17,18,19,23</description>
+   <name>Setup State</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3031b2d9-2ac2-4a35-b83b-f7b7fbe1d1c9</testCaseGuid>
+</TestCaseEntity>
