@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user shoud be able to access https://uat.nimblex.com.ng/ for loan</description>
+   <name>Launch Nimblex URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae7793c2-c50b-4530-b91d-0a212f44e867</testCaseGuid>
+</TestCaseEntity>
