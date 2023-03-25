@@ -6,7 +6,7 @@
    <UUID>ac8a253b-0820-4dbd-bbbf-7c38852a8bda</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Respect\Katalon Studio\FCMB\FCMB.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Respect\Katalon Studio\Polaris Web\katalon.git\FCMB.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
